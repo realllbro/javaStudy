@@ -60,4 +60,5 @@ git reset HEAD^ (가장 최신 커밋 1개 취소(삭제))
 git reset HEAD^^(가장 최신 커밋 2개 취소(삭제))
 
 
-
+-git 폴더삭제
+rm -rf 폴더명
