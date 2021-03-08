@@ -96,3 +96,5 @@ git reset HEAD^^(가장 최신 커밋 2개 취소(삭제))
 ```shell
 rm -rf 폴더명
 ```
+
+테스트
